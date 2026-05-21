@@ -197,11 +197,11 @@ Used slicers for:
 # 📂 Project Structure
 
 ```bash
-Food-Delivery-Analytics-Dashboard/
+Food-Delivery-App-Analytics-Dashboard/
 │
 ├── LICENSE
 ├── README.md
-├── food_delivery_analysis.pbix
+├── food_delivery_app_analysis.pbix
 ├── screenshots/
 │   ├── executive_overview.png
 │   ├── customer_analytics.png
