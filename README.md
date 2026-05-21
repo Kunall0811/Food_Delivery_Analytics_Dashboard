@@ -21,7 +21,7 @@ The dashboard simulates real-world analytics systems used by food delivery platf
 
 # 📊 Dashboard Pages
 
-## 1️⃣ Executive Overview
+## 1️⃣ Executive Overview | [Executive Overview Dashboard Preview](executive_overview.png) 
 
 Provides a high-level summary of the business using KPI cards and trend analysis.
 
