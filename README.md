@@ -185,15 +185,16 @@ Used slicers for:
 ```bash
 Food-Delivery-Analytics-Dashboard/
 │
-├── Dashboard.pbix
+├── LICENSE
 ├── README.md
+├── food_delivery_analysis.pbix
 ├── screenshots/
 │   ├── executive_overview.png
 │   ├── customer_analytics.png
 │   ├── restaurant_performance.png
 │   ├── delivery_operations.png
 │   └── advanced_insights.png
-|   └── drillthrough_restaurantdetails.png
+│   └── drillthrough_restaurantdetails.png
 ```
 
 ---
