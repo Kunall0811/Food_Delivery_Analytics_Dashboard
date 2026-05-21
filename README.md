@@ -1,4 +1,4 @@
-# 🍽️ Food Delivery Analytics Dashboard
+# 🍽️ Food Delivery App Analytics Dashboard
 
 ## 📌 Overview
 
